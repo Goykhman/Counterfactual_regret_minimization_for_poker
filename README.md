@@ -1,0 +1,2 @@
+# Counterfactual_regret_minimization_for_poker
+CFR algorithm optimizing strategies in simplified poker
