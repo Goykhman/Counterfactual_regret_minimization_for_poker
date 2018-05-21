@@ -78,7 +78,7 @@ public:
         int suit=hand[0];
         int rank=suit;
         suit=suit>>8;
-        rank=rank&255; // 255=0x11111111
+        rank=rank&255; // 255=0b11111111
         for(int i=1;i<hand.size();++i){
             int s=hand[i];
             int r=s;
